@@ -1,0 +1,52 @@
+/*
+   
+*/
+.button
+{
+    -fx-background-color: #ffffff;
+    -fx-background-radius: 8;
+    -fx-border-radius: 8;
+    -fx-border-color: #4E9F3D;
+    -fx-border-width: 2;
+    -fx-text-fill: #000000;
+    -fx-font-size: 16;
+    -fx-font-weight: Bold;
+}
+
+.button:hover
+{
+    -fx-background-color: #4E9F3D;
+    -fx-background-radius: 8;
+    -fx-border-radius: 8;
+    -fx-border-color: #000000;
+    -fx-border-width: 2;
+    -fx-text-fill: #ffffff;
+    -fx-font-size: 16;
+    -fx-font-weight: Bold;
+}
+
+.textArea
+{
+  -fx-text-fill: #000000;
+  -fx-font-size: 17;
+  -fx-font-weight: Bold;
+}
+
+.comboBox
+{
+    -fx-background-color: #ffffff;
+    -fx-border-width: 0px0px2px0px;
+    -fx-border-color: #4E9F3D;
+    -fx-font-size: 14;
+    -fx-font-weight: Bold;
+}
+
+.table{
+     -fx-background-color: #ffffff;
+     -fx-border-color: #000000;
+     -fx-border-width:2;
+     -fx-font-family:'Times New Roman';
+     -fx-font-size:15;
+     -fx-text-fill: #000000;
+     -fx-font-weight: BOLd;
+ }
